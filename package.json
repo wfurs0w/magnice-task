@@ -1,7 +1,7 @@
 {
-  "name": "gulp-boilerplate",
+  "name": "magnice-task",
   "version": "1.0.0",
-  "description": "Frontend boilerplate based on gulp",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "init": "mate-scripts init",
